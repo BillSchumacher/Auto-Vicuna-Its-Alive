@@ -2,4 +2,9 @@ black
 isort
 flake8
 pylint
+wheel
+setuptools
+build
+twine
 abstract-singleton
+auto-vicuna-plugin-template
